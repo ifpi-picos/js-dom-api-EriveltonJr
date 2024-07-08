@@ -1,1 +1,20 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/eo0XoPzu)
+# TO-DO LIST 
+
+- Disciplina: Programação para Internet I
+- Professor : Jesiel Viana
+
+# Requisitos
+
+- Adicionar uma nova tarefa;
+
+- Concluir uma tarefa;
+
+- Remover uma tarefa;
+
+- Armazenar os dados no armazenamento local de modo que, quando atualizo a página, ainda posso ver meu progresso.
+
+- (Opcional) Adicionar data a uma tarefa;
+
+- (Opcional) Adicionar label/entiqueta a uma tarefa;
+
+- (Opcional) Criar listas/categorias para organizar as tarefas;
